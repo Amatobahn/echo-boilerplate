@@ -3,8 +3,8 @@
 Starting point for creating Go based HTTP server using Echo
 
 ## Requirements
-You need Python 3.6 or later to run starlette-boilerplate.  
-Python packages are available at http://www.python.org/getit/
+You need Golang to run echo-boilerplate.  
+Golang is available at https://golang.org/
 
 ## Running the tests
 
@@ -18,6 +18,7 @@ To Run:
 $ cd server
 $ go run server.go
 ```
+Browse to http://localhost:8080
 
 ## Built With
 
